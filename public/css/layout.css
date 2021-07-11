@@ -551,15 +551,10 @@ ul#nav li.current a { color: #d6988b; }
    color: #636363;
    font-size: 17px;
 }
-/*#
-call-to-action .button {
-	color:#fff;
-   background: #0D0D0D;
-}
-*/
+
 #call-to-action .button:hover,
 #call-to-action .button:active {
-   background: #FFFFFF;
+   background: #dfc9c9;
    color: #0D0D0D;
 }
 #call-to-action p span {
@@ -570,9 +565,9 @@ call-to-action .button {
 /* ------------------------------------------------------------------
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
-
+/* 
 #testimonials {
-   background: #1F1F1F url(../images/background2.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/111.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -581,8 +576,8 @@ call-to-action .button {
    min-height: 200px;
    width: 100%;
    overflow: hidden;
-}
-#testimonials .text-container {
+} */
+/* #testimonials .text-container {
    padding-top: 96px;
    padding-bottom: 66px;
 }
@@ -606,13 +601,13 @@ call-to-action .button {
 }
 
 /*	Blockquotes */
-#testimonials blockquote {
+/* #testimonials blockquote {
    margin: 0 0px 30px 0px;
    padding-left: 0;
    position: relative;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
-}
-#testimonials blockquote:before { content: none; }
+} */
+/* #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
@@ -626,10 +621,10 @@ call-to-action .button {
    font-style: normal;
    line-height: 18px;
    color: #fff;
-}
-#testimonials blockquote cite:before { content: "\2014 \0020"; }
+} */
+/* #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
-#testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#testimonials blockquote cite a:visited { color: #8B9798; border: none } */ */
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
