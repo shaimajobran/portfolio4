@@ -3,7 +3,7 @@
     "name": "Shaima Jobran",
     "occupation": "Full Stack developer",
     "image": "profilepic.jpg",
-    "bio": "Hello World! I am Shaima! A full stack developer  using new technologies to build web applications. I enjoy Back End as well as Fron End developing . I am passionate about web development and programming because I love to make apps that help people and communities. Recently completed a Full Stack developer bootcamp. Excellent ability to learn new technologies and tools. Eager to build my professional experience and apply recent knowledge.",
+    "bio": "Hi! I am Shaima! A full stack developer  using new technologies to build web applications. I enjoy Back End as well as Fron End developing . I am passionate about web development and programming because I love to make apps that help people and communities. Recently completed a Full Stack developer bootcamp. Excellent ability to learn new technologies and tools. Eager to build my professional experience and apply recent knowledge.",
     "contactmessage": "Get in touch with me",
     "email": "shaimajobran22@gmail.com",
     "phone": "+1 (410)-428-1438",
@@ -14,7 +14,7 @@
       "zip": "23236"
     },
     "website": "",
-    "resumedownload": "public/images/portfolio/Resume.pdf",
+    "resumedownload": "public/images/Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -180,9 +180,9 @@
       },
   
       {
-        "title": "",
+        "title": "Budget-Tracker",
         "category": "",
-        "image": "",
+        "image": "4.jpg",
         "url": ""
       }
     ]
