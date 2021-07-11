@@ -167,23 +167,18 @@
         "url": "https://quiet-anchorage-14204.herokuapp.com/"
       },
       {
-        "title": "",
+        "title": "Musical",
         "category": "",
-        "image": "",
-        "url": ""
+        "image": "9.jpg",
+        "url": "https://crsmith01.github.io/Musical/"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "LightCvill",
+        "category":"",
+        "image": "3.jpg",
+        "url": "https://lightcville.herokuapp.com/login"
       },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
-      },
+  
       {
         "title": "",
         "category": "",
