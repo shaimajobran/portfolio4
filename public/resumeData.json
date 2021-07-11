@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name": "Shaima Jobran",
+    "occupation": "Full Stack developer",
+    "image": "profilepic.jpg",
+    "bio": "Hello World! I am Shaima! A full stack developer  using new technologies to build web applications. I enjoy Back End as well as Fron End developing . I am passionate about web development and programming because I love to make apps that help people and communities. Recently completed a Full Stack developer bootcamp. Excellent ability to learn new technologies and tools. Eager to build my professional experience and apply recent knowledge.",
+    "contactmessage": "Get in touch with me",
+    "email": "shaimajobran22@gmail.com",
+    "phone": "+1 (410)-428-1438",
+    "address": {
+      "street": "Glenhaven Ct ",
+      "city": "Richmond",
+      "state": "Virginia",
+      "zip": "23236"
+    },
+    "website": "",
+    "resumedownload": "public/images/portfolio/Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shaima-jobran-323472172/",
+        "className": "fa fa-linkedin"
+      },
+    
+      {
+        "name": "github",
+        "url": "https://github.com/Shaimajobran",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Coding Language Proficiency",
+    "education": [
+      {
+        "school": "University Of Richmond",
+        "degree": "Advanced Certificate",
+        "graduated": "August 2021",
+        "description": "Web Development Bootcamp transform me into a passinate web developer. where I understand coding logic using popular languages and frameworks like JavaScript, while learning how to think like a programmer by building software from the ground up."
+      },
+      {
+        "school": "University of Sana'a - Yemen",
+        "degree": "Bacelor's Degree,Art-English Litertuer",
+        "graduated": "July-2006"
+      },
+      {
+        "school": "",
+        "degree": "",
+        "graduated": "",
+        "description": ""
+      }
+     
+    ],
+    "work": [
+      {
+        "company": "Freelance ",
+        "title": "Full Stack Web Developer ",
+        "years": "Jan. 2021 - Present",
+        "description": "Making websites and enjoy playing with color;enjoying working on  Back End Projects and also enjoying Debuging  "
+      },
+      
+      {
+        "company": " ",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ],
+    "pics": [
+      {
+        "title": "ReactJs",
+        "category": "",
+        "image": "react.png",
+        "url": ""
+      },
+      {
+        "title": "Node Js",
+        "category": "",
+        "image": "node.png",
+        "url": ""
+      },
+      {
+        "title": "JavaScript",
+        "category": "",
+        "image": "javascript.png",
+        "url": ""
+      },
+      {
+        "title": "CSS",
+        "category": "",
+        "image": "css.png",
+        "url": ""
+      },
+      {
+        "title": "HTML",
+        "category": "",
+        "image": "html.png",
+        "url": ""
+      },
+      {
+        "title": "Express",
+        "category": "",
+        "image": "express.png",
+        "url": ""
+      },
+     
+      {
+        "title": "REST API",
+        "category": "",
+        "image": "API.png",
+        "url": ""
+      },
+      {
+        "title": "Git",
+        "category": "",
+        "image": "git.png",
+        "url": ""
+      },
+      {
+        "title": "Github",
+        "category": "",
+        "image": "github.png",
+        "url": ""
+      },
+     
+     
+      {
+        "title": "Ajax",
+        "category": "",
+        "image": "ajax.png",
+        "url": ""
+      },
+     
+      {
+        "title": "jQuery",
+        "category": "",
+        "image": "jQuery.png",
+        "url": ""
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MCV BLOg",
+        "category": "",
+        "image": "1.jpg",
+        "url": "https://quiet-anchorage-14204.herokuapp.com/"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  }
+}
